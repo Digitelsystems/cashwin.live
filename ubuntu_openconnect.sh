@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='173.82.65.242';
-db_user='cashwin_cashwin';
-db_pass='digi#0550013763';
-db_name='cashwin_cashwin';
+db_host='66.45.248.110';
+db_user='digitelp_cashwin';
+db_pass='cashwin123#1@';
+db_name='digitelp_cashwin';
 
 install_require()
 {
