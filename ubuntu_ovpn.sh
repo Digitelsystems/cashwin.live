@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='209.159.152.66';
-USER='cashwin_cashwin';
-PASS='digi#0550013763';
-DBNAME='cashwin_cashwin';
+HOST='66.45.248.110';
+USER='digitelp_cashwin';
+PASS='cashwin123#1@';
+DBNAME='digitelp_cashwin';
 
 install_require()
 {
