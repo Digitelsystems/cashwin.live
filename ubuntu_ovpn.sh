@@ -3,7 +3,7 @@ cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='66.45.248.110';
 USER='digitelp_cashwin';
-PASS='cashwin123#1@';
+PASS='cas12hwin1A';
 DBNAME='digitelp_cashwin';
 
 install_require()
