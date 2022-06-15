@@ -4,7 +4,7 @@ cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 #Database Details
 db_host='66.45.248.110';
 db_user='digitelp_cashwin';
-db_pass='cashwin123#1@';
+db_pass='cas12hwin1A';
 db_name='digitelp_cashwin';
 
 install_require()
